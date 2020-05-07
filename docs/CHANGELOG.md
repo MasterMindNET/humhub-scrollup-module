@@ -1,6 +1,16 @@
 ## Changelogs
+Date: *5/5/2020*
+- Enh: Increased minimum HumHub version to `v1.4.x`
+
+Date: *4/24/2020*
+- Fix: ConfigureForm not validated
+
+Date: *4/23/2020*
+- Fix: Displaying scroll button in transpant when config options aren't filled in
+
 Date: *4/18/2020*
 - Enh: Custom Color
+- Fix: Event param errors
 
 Date: *4/13/2020*
 - Enh: Position Switch Option
